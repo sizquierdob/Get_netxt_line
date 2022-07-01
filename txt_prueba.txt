@@ -1,0 +1,4 @@
+Linea1->123hola gato
+Linea 2->Como estas
+Linea 3-> es una prueba
+Linea 4->fin
